@@ -9,7 +9,7 @@ It aligns with **United Nations Sustainable Development Goal 13 (Climate Action)
 ## ⚙️ Tools & Technologies
 - Python 3
 - pandas, scikit-learn, matplotlib
-- Jupyter Notebook or any Python IDE
+- Python IDE
 
 ---
 
@@ -30,23 +30,11 @@ It aligns with **United Nations Sustainable Development Goal 13 (Climate Action)
 
 ## 📂 Files Included
 - `carbon_emission_predictor.py` → Python script
-- `screenshots/` → Folder with demo image placeholders
 - `README.md` → Project overview and setup instructions
 
 ---
 
-## 🪄 Usage
-```bash
-pip install pandas scikit-learn matplotlib
-python carbon_emission_predictor.py
-```
 
----
-
-## 📸 Screenshots
-Add your own screenshots inside the `screenshots` folder:
-- `model_demo.png` → Model running in console
-- `results_plot.png` → Output visualization
 
 ---
 
